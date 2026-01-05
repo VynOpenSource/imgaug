@@ -58,10 +58,10 @@ INSTALL_REQUIRES = get_install_requirements(INSTALL_REQUIRES, ALT_INSTALL_REQUIR
 
 setup(
     name="imgaug",
-    version="0.4.0",
+    version="0.4.5",
     author="Alexander Jung",
     author_email="kontakt@ajung.name",
-    url="https://github.com/aleju/imgaug",
+    url="https://github.com/VynOpenSource/imgaug",
     download_url="https://github.com/aleju/imgaug/archive/0.4.0.tar.gz",
     install_requires=INSTALL_REQUIRES,
     packages=find_packages(),
